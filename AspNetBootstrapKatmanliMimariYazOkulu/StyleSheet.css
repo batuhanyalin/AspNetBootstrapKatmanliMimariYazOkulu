@@ -1,0 +1,24 @@
+﻿.listedetaybaslik{
+    font-size:25px;
+    font-family:'Segoe Script';
+    color:brown;
+}
+.headerpanel {
+    background-color: #D1DBBD;
+    font-family: Corbel;
+    color: #193441;
+    font-weight: bold;
+    font-size:17px;
+}
+.headerpanelbaslikguncelle{
+    font-family:Bahnschrift;
+    font-size:35px;
+    color:darkseagreen;
+    font-weight:bold;
+}
+.headerpanelbaslikekle {
+    font-family: Bahnschrift;
+    font-size: 35px;
+    color: darkseagreen;
+    font-weight: bold;
+}
